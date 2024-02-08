@@ -87,3 +87,14 @@ li{
     font-weight: bold;
     padding: 5px 10px;
 }
+
+.location{
+    background-color: #2c3e51;
+    height: 230px;
+    width: 100%;
+}
+
+.location-card{
+    background-color: white;
+    height: 230px;
+}

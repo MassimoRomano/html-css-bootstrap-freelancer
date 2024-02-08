@@ -22,4 +22,29 @@
     background-color:orange;
 }
 
+.text{
+    height: 50px;
+    width: 50px;
+    color: beige;
+}
 
+.logo{
+    background-color: white;
+    height: 50px;
+    width: 200px;
+}
+
+.info{
+    list-style: none;
+}
+
+li{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+}
+
+.text{
+    background-color: white;
+    height: 80px;
+    width: 200px;
+}

@@ -72,3 +72,18 @@ li{
     width: 100%;
     
 }
+
+.contact-me{
+    background-color: #fffefe;
+    height: 680px;
+    width: 100%;
+}
+
+.btn-send{
+    background-color:#1bbd9a ;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+}

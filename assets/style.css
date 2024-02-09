@@ -3,6 +3,30 @@
     height: 90px;
     width: 100%;
 }
+
+.me-menu i{
+    font-size: 30px;
+    color: white;
+}
+
+.me-menu{
+    display: none;
+}
+
+.info-menu{
+    display: none;
+}
+
+@media screen and (min-width:320px) and (max-width:450px) {
+    .info{display: none;
+    }
+
+    .me-menu{
+        display: block;
+    }
+
+}
+    
 .logo-text{
     width: 200px;
     color: white;
@@ -23,7 +47,7 @@
     color: white;  
 }
 
-.info{
+.info ul{
     list-style: none;
 }
 
@@ -56,8 +80,13 @@ li{
         width: 100%;
         height: 100%;
         border-radius: 1rem;
-        
     }
+}
+
+.portfolio-card img:hover {
+    background-color: #1bbd9a;
+    border: 5px inset rgb(13, 182, 13);
+    border-radius: 1rem;
 }
 
 .port{
